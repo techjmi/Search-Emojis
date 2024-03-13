@@ -48,7 +48,7 @@ This project is a simple Emoji Search application built using React.js and Mater
 
 ## Author
 
-[Your Name] - [Your Website] - [Your Email]
+Md Shamim Akhter -
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
