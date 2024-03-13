@@ -38,7 +38,8 @@ This project is a simple Emoji Search application built using React.js and Mater
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/techjmi/Search-Emojis/main/public/image.png
+)
 
 ## Credits
 
