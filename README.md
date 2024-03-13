@@ -1,3 +1,53 @@
+# Emoji Search App
+
+This project is a simple Emoji Search application built using React.js and Material-UI. It allows users to search for emojis by their names and displays the matching emojis with their names in a visually appealing UI.
+
+## Features
+
+- Displays a search bar to input the name of the emoji.
+- Filters and displays emojis based on the search query.
+- If no matching emoji is found, it displays a message "No Emoji Found".
+- Utilizes Material-UI components for a clean and responsive user interface.
+- Provides an intuitive user experience for searching and viewing emojis.
+
+## Technologies Used
+
+- React.js
+- Material-UI
+- JavaScript
+- HTML
+- CSS
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Run the application using `npm start`.
+5. Open your browser and navigate to `http://localhost:3000` to view the application.
+6. Enter the name of the emoji in the search bar to search for emojis.
+7. View the matching emojis displayed below the search bar.
+8. If no matching emoji is found, a message "No Emoji Found" will be displayed.
+
+## Project Structure
+
+- **src/components/Header.jsx**: Contains the main component for the emoji search functionality.
+- **src/data/data.js**: JSON file containing the emoji data.
+- **src/App.js**: Main application component where the Search component is rendered.
+- **src/index.js**: Entry point of the application.
+
+## Screenshots
+
+![Screenshot](screenshot.png)
+
+## Credits
+
+- Emojis data obtained from [unicode.org](https://unicode.org/emoji/charts/full-emoji-list.html).
+- Material-UI for providing the UI components.
+
+## Author
+
+[Your Name] - [Your Website] - [Your Email]
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
